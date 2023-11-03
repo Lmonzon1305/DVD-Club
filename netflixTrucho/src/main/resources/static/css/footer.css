@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 88vh;
+    width: 100%;
+    position: relative;
+}
+
+footer {
+	height: 10vh;
+    margin-top: auto;
+}
+
+.piePaginaTitulo{
+	position: relative;
+    font-size: 20px;
+    top: 10px;
+    left: 10%;
+}
+.piePaginaDireccion{
+	position: relative;
+    top: 10px;
+    left: 10%;
+}
+.piePaginaNumero{
+	position: relative;
+    top: 10px;
+    left: 10%;
+}
+
+.piePaginaEnlace1{
+	position: relative;
+    top: -120px;
+    left: 80%;
+}
+.piePaginaEnlace2{
+	position: relative;
+    top: -120px;
+    left: 80%;
+}
+.piePaginaEnlace3{
+	position: relative;
+    top: -120px;
+    left: 80%;
+}
